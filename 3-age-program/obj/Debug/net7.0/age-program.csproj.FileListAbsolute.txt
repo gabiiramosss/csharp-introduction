@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\age-program\bin\Debug\net7.0\age-program.exe
+C:\Users\50579698890\Desktop\age-program\bin\Debug\net7.0\age-program.deps.json
+C:\Users\50579698890\Desktop\age-program\bin\Debug\net7.0\age-program.runtimeconfig.json
+C:\Users\50579698890\Desktop\age-program\bin\Debug\net7.0\age-program.dll
+C:\Users\50579698890\Desktop\age-program\bin\Debug\net7.0\age-program.pdb
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.dll
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\refint\age-program.dll
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.pdb
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\age-program.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\age-program\obj\Debug\net7.0\ref\age-program.dll
