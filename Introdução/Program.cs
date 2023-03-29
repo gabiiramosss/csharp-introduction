@@ -4,7 +4,7 @@
 // int idade = 36;
 // Console.WriteLine("A idade da " + name + " é " + idade + " anos");
 
-// float preco = 10.95F;
+// float preco = 10.95F; caso hajam casas decimais é necessário colocar o f no final para indicar que é flutuante.
 
 // bool careca = false;
 // Console.WriteLine(careca);
@@ -30,7 +30,7 @@
 // Console.WriteLine(5 * 5);
 
 // modular
-// Console.WriteLine(5 % 2);
+// Console.WriteLine(5 % 2); usado para descobrir se o número é par ou impar
 
 //Operadores de comparação (responde com true ou false)
 // igual a 
@@ -52,8 +52,8 @@
 // Console.WriteLine(5 != 6);
 
 // Operadores lógicos
-// && : e
 // || : ou
+// && : e
 // ! : não
 
 // Console.WriteLine(5 == 5 && 8 == 8); TRUE && TRUE = TRUE
@@ -77,7 +77,7 @@
 
 //entrada
 string nome = "Gabi";
-int idade = 17;
+// int idade = 17;
 float peso = 53.5f;
 float altura = 1.53f;
 
@@ -85,4 +85,4 @@ float altura = 1.53f;
 float imc = peso / (altura * altura);
 
 //saída
-Console.WriteLine("O IMC da " + nome + " é de : " + Math.Round(imc,2));
+Console.WriteLine("O IMC da " + nome + " é de : " + Math.Round(imc, 2)); //Math.Round é usado para arredondar números, o 2 após a vírgula é a quantidade de casas desejadas
