@@ -51,17 +51,17 @@
 
 // int idade = 18;
 
-// if (idade >= 18)
-// {
-//     Console.WriteLine($"Pode entrar na festa!");
-// }
-// else if (idade >= 16)
-// {
-//     Console.WriteLine($"Pode entrar na festa com a mamãe!");
-// }
-// else
-// {
-//     Console.WriteLine($"Não pode entrar, proibido para criancinhas!");
-// }
+//  if (idade >= 18)
+//  {
+//      Console.WriteLine($"Pode entrar na festa!");
+//  }
+//  else if (idade >= 16)
+//  {
+//      Console.WriteLine($"Pode entrar na festa com a mamãe!");
+//  }
+//  else
+//  {
+//      Console.WriteLine($"Não pode entrar, proibido para criancinhas!");
+//  }
 
 //A condicional encadeada só funciona pq estamos lidando com o mesmo dado
