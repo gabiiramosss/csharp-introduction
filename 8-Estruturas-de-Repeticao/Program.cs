@@ -70,3 +70,21 @@
 //      if (idade == 53)
 //          idadeCerta = true;
 //  } while(!idadeCerta)
+
+
+
+//For
+// for (int t = 0; t <= 50; t++)
+// {
+//     Console.WriteLine(t);
+// }
+
+// for (int t = 0; t <= 50; t+=2)
+// {
+//     Console.WriteLine(t);
+// }
+
+// for (int t = 200; t >= 0; t-=)
+// {
+//     Console.WriteLine(t);
+// }
