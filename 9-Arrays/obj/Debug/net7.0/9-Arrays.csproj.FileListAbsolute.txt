@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\9-Arrays\bin\Debug\net7.0\9-Arrays.exe
+C:\Users\50579698890\Desktop\9-Arrays\bin\Debug\net7.0\9-Arrays.deps.json
+C:\Users\50579698890\Desktop\9-Arrays\bin\Debug\net7.0\9-Arrays.runtimeconfig.json
+C:\Users\50579698890\Desktop\9-Arrays\bin\Debug\net7.0\9-Arrays.dll
+C:\Users\50579698890\Desktop\9-Arrays\bin\Debug\net7.0\9-Arrays.pdb
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.dll
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\refint\9-Arrays.dll
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.pdb
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\9-Arrays.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\9-Arrays\obj\Debug\net7.0\ref\9-Arrays.dll
